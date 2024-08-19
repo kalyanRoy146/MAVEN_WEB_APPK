@@ -1,0 +1,31 @@
+# Ignore target directory
+target/
+.settings/
+
+# Ignore .classpath file
+.classpath
+
+# Additional common files/folders to ignore
+*.log
+*.tmp
+*.bak
+*.swp
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# Ignore Maven and Gradle specific files
+mvnw
+mvnw.cmd
+.gradle/
+build/
+
+# Ignore Eclipse specific files
+.project
+.settings/
+
+# Ignore IntelliJ IDEA specific files
+.idea/
+*.iml
